@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/currencymanager/static/css/main.5ef75bbb.chunk.css",
+    "main.js": "/currencymanager/static/js/main.a834f967.chunk.js",
+    "main.js.map": "/currencymanager/static/js/main.a834f967.chunk.js.map",
+    "runtime-main.js": "/currencymanager/static/js/runtime-main.89aabe20.js",
+    "runtime-main.js.map": "/currencymanager/static/js/runtime-main.89aabe20.js.map",
+    "static/css/2.d4e7eff5.chunk.css": "/currencymanager/static/css/2.d4e7eff5.chunk.css",
+    "static/js/2.a8d18e8c.chunk.js": "/currencymanager/static/js/2.a8d18e8c.chunk.js",
+    "static/js/2.a8d18e8c.chunk.js.map": "/currencymanager/static/js/2.a8d18e8c.chunk.js.map",
+    "index.html": "/currencymanager/index.html",
+    "precache-manifest.e81064505041aded9ead8f3018e4db24.js": "/currencymanager/precache-manifest.e81064505041aded9ead8f3018e4db24.js",
+    "service-worker.js": "/currencymanager/service-worker.js",
+    "static/css/2.d4e7eff5.chunk.css.map": "/currencymanager/static/css/2.d4e7eff5.chunk.css.map",
+    "static/css/main.5ef75bbb.chunk.css.map": "/currencymanager/static/css/main.5ef75bbb.chunk.css.map",
+    "static/js/2.a8d18e8c.chunk.js.LICENSE.txt": "/currencymanager/static/js/2.a8d18e8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89aabe20.js",
+    "static/css/2.d4e7eff5.chunk.css",
+    "static/js/2.a8d18e8c.chunk.js",
+    "static/css/main.5ef75bbb.chunk.css",
+    "static/js/main.a834f967.chunk.js"
+  ]
+}
